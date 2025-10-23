@@ -1,4 +1,4 @@
-# Year 1 — Project1 Stock Price Visualization
+# Year 1 — Project 1 Stock Price Visualization
 
 **Description:**  
 This project downloads last month’s daily stock data for 5 major companies (AAPL, AMZN, GOOG, MSFT, TSLA) using Python and yfinance. It saves each stock as a CSV and produces a line graph showing closing prices.
